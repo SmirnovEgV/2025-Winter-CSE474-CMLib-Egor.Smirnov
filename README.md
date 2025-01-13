@@ -1,1 +1,1 @@
-# 2025-Winter-CSE474-CMLib-Egor.Smirnov
+# This is a Readme file for cse474
