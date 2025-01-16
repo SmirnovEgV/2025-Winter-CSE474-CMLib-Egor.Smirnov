@@ -1,0 +1,9 @@
+- Clause 1 contains scope, purpose, and introductory material.
+- Clause 2 identifies the normative references used in this standard.
+- Clause 3 defines terms and acronyms used in this standard.
+- Clause 4 describes the context for the SQA processes and SQA activities, and covers expectations
+for how this standard will be applied.
+- Clause 5 specifies the SQA processes, activities, and tasks. Sixteen activities are identified in this
+clause and are grouped into three major areas: process implementation, product assurance, and
+process assurance. These activities implement the required outcomes for SQA specified by 7.2.3 of
+ISO/IEC/IEEE 12207:2008. 
