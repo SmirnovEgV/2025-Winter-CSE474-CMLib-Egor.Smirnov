@@ -1,0 +1,1 @@
+Serves to store reports
