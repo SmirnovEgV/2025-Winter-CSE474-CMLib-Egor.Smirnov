@@ -19,7 +19,7 @@
 3. [Referenced Documents](#referenced-documents)
 
 ## Table of Figures
-> No figures at this time.
+1. [Figure 1: Application Life Cycle Model](../Reference%20Document/Project Library/Project Documents/Reference Document/Phases-of-Web-Application-Development-Lifecycle.png)
 
 ## Introduction
 [Placeholder for Introduction content]
