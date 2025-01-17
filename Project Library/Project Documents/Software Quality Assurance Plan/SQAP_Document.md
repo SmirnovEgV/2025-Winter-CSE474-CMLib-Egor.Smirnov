@@ -10,7 +10,7 @@
 |Version|Date|Author|Changes|
 |:-------:|:----:| :----: |:----:|
 | 0.1.0   |01.16.25| Egor Smirnov |Initial draft of SQAP|
-|0.1.1|01.16.25|Egor Smirnov| Added fictious contract and messages|
+|0.1.1|01.16.25|Egor Smirnov|Added fictitious contract and section info|
 ----
 
 ## Table of Contents
