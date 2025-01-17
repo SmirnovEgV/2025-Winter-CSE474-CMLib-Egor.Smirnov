@@ -3,4 +3,6 @@
 - Folders contain following sections:
 - For Prod Lib: 3rd party, Deliverables, Setup, Source Code
 - For Proj Lib: Project Documentation, Reports, Software Engineering, System Engineering
-* [Quick way to SQAP](Software%20Quality%20Assurance%20Plan/SQAP_Document.md)
+## Key Documents
+
+- [Software Quality Assurance Plan (SQAP)](Project%20Library/Project%20Documents/Software%20Quality%20Assurance%20Plan/SQAP_Document.md): A document defining the quality assurance standards and processes for the ArtConnect App project.
