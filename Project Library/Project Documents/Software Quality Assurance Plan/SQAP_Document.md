@@ -22,9 +22,28 @@
 1. [Figure 1: Application Life Cycle Model](../Reference%20Document/Project%20Library/Project%20Documents/Reference%20Document/Phases-of-Web-Application-Development-Lifecycle.png)
 
 ## Introduction
-[Placeholder for Introduction content]
+### Purpouse
+The purpose of this Software Quality Assurance Plan (SQAP) is to define the quality assurance strategy,
+processes, and activities that will ensure the successful development,testing, and deployment of the 
+ArtConnect application. This document outlines the quality assurance procedures to be followed throughout
+the software development lifecycle, from requirements gathering to post-deployment maintenance, ensuring
+that the software meets both customer and regulatory requirements.
+### Scope
+This SQAP applies to the development and delivery of the ArtConnect application, a social networking platform 
+for artists. The plan covers quality assurance activities throughout the software development lifecycle, including
+requirements gathering, design, coding, testing, and deployment. This plan excludes hardware testing and external 
+vendor software evaluations, which are covered by separate documentation.
+### Concept of Operations
+The application (ArtConnect) will be used by users with limited amount of software knowlege and needs to be user friendly
+and fail prone. QA need to verify and make sure online serviced are easy to use and hard to make fail. Network services should
+be protected with end-to-end encryption. Network services need to have enought bandtwidth to widstand large file transmission without loss of quality
+### Contract
+As per contract [ArtConnect App](../Reference%20Document/ArtConnect%20App%20contract.pdf) we agree to provide services and assure high quality product to our client.
+Clients will present product on the next convention and desire to have product fully ready by that time perod.
 ## Acronyms and Definitions
-[Placeholder for Acronyms and Definitions content]
+> API: Application Programming Interface
+> QA: Quality Assurance
+> CI/CD: Continuous Integration and Continuous Deployment
 ## Referenced Documents
 List of documents:
 * [ArtConnect App](../Reference%20Document/ArtConnect%20App%20contract.pdf) contract.
