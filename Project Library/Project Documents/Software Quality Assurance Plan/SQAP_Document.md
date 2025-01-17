@@ -24,7 +24,9 @@
 ## Acronyms and Definitions
 [Placeholder for Acronyms and Definitions content]
 ## Referenced Documents
-[Placeholder for Documents content]
+List documents:
+* ArtConnect App contract.
+* IEEE 730-2014 (To generate the list)
 ## Management
 [Placeholder for Management content]
 ## Documentation
