@@ -26,7 +26,7 @@
 ## Referenced Documents
 List of documents:
 * ArtConnect App contract.
-* [IEEE 730-2014] (https://ieeexplore-ieee-org.byui.idm.oclc.org/document/6835311) (To generate the list)
+* [IEEE 730-2014](https://ieeexplore-ieee-org.byui.idm.oclc.org/document/6835311) (To generate the list)
 ## Management
 [Placeholder for Management content]
 ## Documentation
