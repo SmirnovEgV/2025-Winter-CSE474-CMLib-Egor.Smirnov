@@ -1,12 +1,12 @@
 # Title page (?)
-### Title: Software Quality Assurance Plan (SQAP)
-### Project Name: ArtConnect app
-### Prepared by: me LLC
-### Prepared For: USAU
-### Approved by: Scott Wood (?)
-### Authors: Egor Smirnov
+## Title: ###Software Quality Assurance Plan (SQAP)
+## Project Name: ###ArtConnect app
+## Prepared by: ###me LLC
+## Prepared For: ###USAU
+## Approved by: ###Scott Wood (?)
+## Authors: ###Egor Smirnov
 
-|:Version:|:Date:|:Author:|:Changes:|
+|Version|Date|Author|Changes|
 |:-------:|:----:| :----: |:----:|
 | 0.1.0   |01.16.25| Egor Smirnov |Initial draft of SQAP|
 
