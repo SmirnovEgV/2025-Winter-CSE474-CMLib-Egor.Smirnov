@@ -41,9 +41,9 @@ be protected with end-to-end encryption. Network services need to have enought b
 As per contract [ArtConnect App](../Reference%20Document/ArtConnect%20App%20contract.pdf) we agree to provide services and assure high quality product to our client.
 Clients will present product on the next convention and desire to have product fully ready by that time perod.
 ## Acronyms and Definitions
-> API: Application Programming Interface
-> QA: Quality Assurance
-> CI/CD: Continuous Integration and Continuous Deployment
+* API: Application Programming Interface
+* QA: Quality Assurance
+* CI/CD: Continuous Integration and Continuous Deployment
 ## Referenced Documents
 List of documents:
 * [ArtConnect App](../Reference%20Document/ArtConnect%20App%20contract.pdf) contract.
