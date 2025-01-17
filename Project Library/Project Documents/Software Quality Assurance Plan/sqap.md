@@ -1,1 +1,0 @@
-Serves as a place for software quality assureance plan
