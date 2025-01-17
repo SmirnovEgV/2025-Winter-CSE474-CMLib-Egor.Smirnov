@@ -18,7 +18,7 @@
 3. [Referenced Documents](#referenced-documents)
 
 ## Table of Figures
-- No figures at this time.
+> No figures at this time.
 
 ## Introduction
 [Placeholder for Introduction content]
