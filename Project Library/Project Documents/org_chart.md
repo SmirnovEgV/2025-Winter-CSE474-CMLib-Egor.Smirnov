@@ -1,46 +1,46 @@
-# Organizational Chart
-
-```mermaid
 graph TD
-  A[Customer] --> B[Project Management]
-  A --> C[User]
+    Customer["Customer"]
+    User["User"]
+    Analysts["Requirements Analysts/Business Analysts"]
+    Developers["Designers and Developers"]
+    Testers["Testers"]
+    Quality["Quality"]
+    ChangeManagement["Change Management"]
+    TechSupport["Tech Support"]
+    ProjectManagement["Project Management"]
 
-  B --> D[Requirements Analysts / Business Analysts]
-  B --> E[Designers and Developers]
-  B --> F[Testers]
-  B --> G[Quality]
-  B --> H[Change Management]
-  B --> I[Tech Support]
+    Customer --> Analysts
+    Customer --> User
+    User --> Analysts
+    Analysts --> Developers
+    Developers --> Testers
+    Testers --> Quality
+    ChangeManagement --> Quality
+    TechSupport --> ProjectManagement
+    ProjectManagement --> Developers
 
-  subgraph SCM_Team_Org
-    J1[SCM Manager] --> J2[SCM Librarian]
-    J1 --> J3[SCM Toolsmith]
-  end
+    subgraph SCM Team
+        SCMLib["SCM Librarian"]
+        SCMToolsmith["SCM Toolsmith"]
+        SCMManager["SCM Manager"]
+    end
 
-  subgraph SCM_Team_Project
-    K1[SCM Manager]
-    K1 --> K2[SCM Toolsmith]
-    K1 --> K3[SCM Librarian]
-  end
+    subgraph CCB
+        CCBLeader["CCB Leader (Chair)"]
+        CCBMembers["CCB Members"]
+        CCBScreener["CCB Screener"]
+        CCBRecorder["CCB Recorder"]
+        ImpactAnalysis["Impact Analysis Team"]
+        SMEs["Subject Matter Experts"]
+        UserRep["Customer/User Representative"]
+        Management["Management-Level Personnel"]
+    end
 
-  B --> SCM_Team_Org
-  B --> SCM_Team_Project
-
-  subgraph CCB[Configuration Control Board]
-    L1[CCB Leader (Chair)] --> L2[CCB Members]
-    L1 --> L3[CCB Screener]
-    L1 --> L4[CCB Recorder]
-    L1 --> L5[Impact Analysis Team]
-    L2 --> M1[Subject Matter Experts (SMEs)]
-    L2 --> M2[Customer/User Representative]
-    L2 --> M3[Management-Level Personnel]
-    L2 --> M4[Project Manager / Stakeholders]
-    L2 --> M5[Configuration Management & QA Personnel]
-  end
-
-  B --> CCB
-
-  %% Additional Role
-  A --> N[Client Efforts Coordinator]
-  N --> B
-  N --> C
+    SCMManager --> SCMLib
+    SCMManager --> SCMToolsmith
+    CCBLeader --> CCBMembers
+    CCBMembers --> CCBScreener
+    CCBMembers --> CCBRecorder
+    ImpactAnalysis --> SMEs
+    SMEs --> UserRep
+    UserRep --> Management
