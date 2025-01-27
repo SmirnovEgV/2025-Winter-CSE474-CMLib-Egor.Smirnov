@@ -34,7 +34,7 @@
 18. [Appendices](#Appendices)
 
 ## Table of Figures
-1. [Figure 1: Application Life Cycle Model](../Reference%20Document/Phases-of-Web-Application-Development-Lifecycle.png)
+* [No figures yet]
 
 ## Introduction
 ### Purpouse
