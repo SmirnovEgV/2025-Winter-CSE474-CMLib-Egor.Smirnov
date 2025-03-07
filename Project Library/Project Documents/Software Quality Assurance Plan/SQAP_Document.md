@@ -25,7 +25,8 @@
    5. [Efforts, resources and schedule](#Reviews-and-Audits)
 5. [Activities, outcomes and tasks](#Test)
    1.[Problem Reporting and Corrective Action](#Problem-Reporting-and-Corrective-Action)
-      1.[Tools, Techniques, and Methodologies](#Tools-Techniques-and-Methodologies)
+
+   [Tools, Techniques, and Methodologies](#Tools-Techniques-and-Methodologies)
 5.1.2 [Code Control](#Code-Control)
 5.1.3. [Media Control](#Media-Control)
 5.1.4 [Supplier Control](#Supplier-Control)
