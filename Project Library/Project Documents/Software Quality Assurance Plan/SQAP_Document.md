@@ -24,17 +24,26 @@
    4. [Standards, practices and conventions](#Standards-Practices-Conventions-and-Metrics)
    5. [Efforts, resources and schedule](#Reviews-and-Audits)
 5. [Activities, outcomes and tasks](#Test)
-   1.[Problem Reporting and Corrective Action](#Problem-Reporting-and-Corrective-Action)
-
-   [Tools, Techniques, and Methodologies](#Tools-Techniques-and-Methodologies)
-5.1.2 [Code Control](#Code-Control)
-5.1.3. [Media Control](#Media-Control)
-5.1.4 [Supplier Control](#Supplier-Control)
-5.1.5 [Records Collection, Maintenance, and Retention](#Records-Collection-Maintenance-and-Retention)
-17. [Training](#Training)
-18. [Risk Management](#Risk-Management)
-19. [Glossary](#Glossary)
-20. [Appendices](#Appendices)
+5.1 [Product assurance](#Problem-Reporting-and-Corrective-Action)
+5.1.1 [Evaluate plans for conformance](#Tools-Techniques-and-Methodologies)
+5.1.2 [Evaluate product for conformance](#Code-Control)
+5.1.3.[Evaluate product for acceptability](#Media-Control)
+5.1.4 [Evaluate product life cycle support for conformance](#Supplier-Control)
+5.1.5 [Measure products](#Records-Collection-Maintenance-and-Retention)
+5.2 [Process assurance](#Training)
+5.2.1 [Evaluate life cycle processes for conformance]
+5.2.2 [Evaluate environments for conformance]
+5.2.3 [Evaluate subcontractor processes for conformance]
+5.2.4 [Measure processes]
+5.2.5 [Assess staff skill and knowledge]
+6. [Additional considerations]
+6.1 [Contract review]
+6.2 [Quality measurement]
+6.3 [Waivers and deviations]
+6.4 [Task repetition]
+6.5 [Risks to performing SQA](#Appendices)
+6.6 [Communication Strategy](#Glossary) 
+6.7 [Non-conformance process](#Risk-Management) 
 
 ## Table of Figures
 * [No figures yet]
